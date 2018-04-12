@@ -5,12 +5,12 @@ $(document).ready(function () {
 
         $(this).animate({
             opacity:.78
-        },100)
+        },150)
 
     }, function () {
         $(this).animate({
             opacity:1
-        },100);
+        },150);
     });
 
 });

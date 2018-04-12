@@ -24,3 +24,12 @@ a:hover{
 a, a:hover, a:active, a:visited, a:focus {
     text-decoration:none;
 }
+
+
+.background_div{
+    background-color: white;
+    opacity: .75;
+    border: 1px solid black;
+    border-radius: 15px;
+    font-size: 1.25em;
+}
